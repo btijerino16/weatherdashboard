@@ -1,0 +1,31 @@
+header{
+    background-size: cover;
+    background-position-y: 40%;
+    color:white;
+    background-color:rgb(83, 83, 83);
+    position:relative !important;
+}
+
+
+h1{
+    font-size: 400%;
+    text-align: center;;
+    font-weight: bold;
+    text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
+}
+
+.icon {
+    height: 45px;
+}
+
+.forecastCard {
+    background-color: #6887aa;
+}
+
+.darkBlue {
+    background-color: #57718f;
+}
+
+.lightBlue{
+    background-color: #9ecafd;
+}
