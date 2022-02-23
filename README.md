@@ -1,3 +1,4 @@
 # weatherdashboard
 
-interactive dashboard
+Interactive dashboard to access local weather
+
